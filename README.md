@@ -1,2 +1,2 @@
 # WebScraper
-Web Scraping news from my university's website ( tuke.sk )
+Web Scraping news articles from my university's website ( tuke.sk )
