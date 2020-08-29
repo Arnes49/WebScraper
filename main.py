@@ -15,7 +15,7 @@ def send_email(a_header, a_text, image_numbers):
     msg = EmailMessage()
     msg['Subject'] = a_header
     msg['From'] = email_address
-    msg['To'] = 'denismarkovg@gmail.com'
+    msg['To'] = 'youraddress'
     msg.set_content(a_text)
 
     # creating list with files' names
